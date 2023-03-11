@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400&display=swap');
+body{
+    // font-family: 'Unbounded', cursive !important;
+    // background-color:black !important;
+    // color: white !important;
+}
+.Hero{
+ background-image: url(../public/assets/bg1.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.personal{
+    background-image: url(../public/assets/boat.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+}
+.global{
+    background-image: url(../public/assets/map.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.sea{
+    background-image: url(../public/assets/sea.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.car{
+   margin-top: -100px !important;
+}
+.car1{
+    margin-top: -60px !important;
+
+}
+.text1{
+    color: rgb(147, 139, 139);
+}
